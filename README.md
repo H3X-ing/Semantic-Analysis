@@ -8,9 +8,13 @@ A simple GUI is provided to test both approaches and observe prediction differen
 # 🎯 Goal
 
 To evaluate and compare ML vs DL models based on:
+
 	•	Accuracy & performance
+
 	•	Understanding of email context
+	
 	•	Model behavior on real inputs
+	
 	•	Efficiency and prediction speed
 
 ⸻
@@ -41,6 +45,7 @@ label_mapping.pkl	Label decoder
 
 📥 Download ML models:
 👉 https://drive.google.com/drive/folders/131vT0YRg2xqArE37aG9ixTraZmZvSsYx?usp=sharing
+
 ⸻
 
 🏁 How to Run
