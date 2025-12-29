@@ -66,7 +66,7 @@ Suitable for	Small datasets	Complex real-world data
 📸 GUI
 
 ## GUI Preview
-![GUI](./screenshots/screenshot1.png)
-![Prediction](./screenshots/screenshot2.png)
+![GUI](./Screenshots/screenshot1.png)
+![Prediction](./Screenshots/screenshot2.png)
 
 
